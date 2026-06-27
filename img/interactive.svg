@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.21 75.36">
+  <g id="Header">
+    <g>
+      <polygon points="48.7 58.77 32.48 75.36 26.07 21.82 70.57 39.92 55.86 48.59 73.21 69.33 64.91 75.36 48.7 58.77"/>
+      <rect x="37.86" y="10.44" width="14.59" height="4.43" transform="translate(7.41 40.48) rotate(-52.06)"/>
+      <rect x="27.2" width="4.43" height="14.07"/>
+      <rect x="10.19" y="1.5" width="4.43" height="17.98" transform="translate(-3.84 10.37) rotate(-39.82)"/>
+      <rect y="24.64" width="14.32" height="4.43"/>
+      <rect x="8.89" y="39.98" width="13.43" height="4.43" transform="translate(-23.63 20.18) rotate(-40.41)"/>
+    </g>
+  </g>
+</svg>
